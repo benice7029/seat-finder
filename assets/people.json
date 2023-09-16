@@ -6,7 +6,7 @@
     {
       "id": 111,
       "table_name": "1 徐家親友",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "徐辰碩",
       "member": [
           {
@@ -17,7 +17,7 @@
     }, {
       "id": 112,
       "table_name": "2 黃徐家親友",
-      "pic": "./assets/pictures/seat112.PNG",
+      "pic": "./assets/pictures/seat112.png",
       "leader": "黃世博",
       "member": [
           {
@@ -37,7 +37,7 @@
     }, {
       "id": 113,
       "table_name": "3 徐家親友",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "徐春美",
       "member": [
           {
@@ -54,7 +54,7 @@
     }, {
       "id": 114,
       "table_name": "4 黃家親友",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "黃英雄",
       "member": [
           {
@@ -80,7 +80,7 @@
     }, {
       "id": 115,
       "table_name": "5 黃家親友",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "黃素戀",
       "member": [
           {
@@ -103,7 +103,7 @@
     }, {
       "id": 116,
       "table_name": "6 黃家親友",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "黃耀生",
       "member": [
           {
@@ -114,7 +114,7 @@
     }, {
       "id": 117,
       "table_name": "7 徐家親友",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "徐豪謙",
       "member": [
           {
@@ -137,7 +137,7 @@
     }, {
       "id": 118,
       "table_name": "8 憲兵227營",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "林信毅",
       "member": [
           {
@@ -160,7 +160,7 @@
     }, {
       "id": 119,
       "table_name": "9 主婚人同學",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "劉江萍",
       "member": [
           {
@@ -183,7 +183,7 @@
     }, {
       "id": 120,
       "table_name": "10 新郎國中朋友",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "葉柏辰",
       "member": [
           {
@@ -221,7 +221,7 @@
     }, {
       "id": 121,
       "table_name": "11 新郎高中朋友",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "李政桓",
       "member": [
           {
@@ -244,7 +244,7 @@
     }, {
       "id": 122,
       "table_name": "12 新郎大學同學",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "張盧祐",
       "member": [
           {
@@ -273,7 +273,7 @@
     }, {
       "id": 123,
       "table_name": "13 新郎優秀同事",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "丁宣文",
       "member": [
           {
@@ -305,7 +305,7 @@
     }, {
       "id": 124,
       "table_name": "14 新郎朋友",
-      "pic": "./assets/pictures/seat111.PNG",
+      "pic": "./assets/pictures/seat111.png",
       "leader": "洪偉強-劉備",
       "member": [
           {
