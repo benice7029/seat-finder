@@ -1,7 +1,7 @@
 [
   {
   "id": 1,
-  "family_name": "徐家親友",
+  "family_name": "男方親友",
   "table": [
     {
       "id": 0,
@@ -64,7 +64,7 @@
     }, {
       "id": 2,
       "table_num": 2,
-      "table_name": "黃家親友",
+      "table_name": "女方親友",
       "pic": "./assets/pictures/seat2.png",
       "leader": "黃素戀",
       "member": [
