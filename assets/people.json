@@ -386,6 +386,38 @@
     "family_name": "吳家親友",
     "table": [
       {
+        "id": 23,
+        "table_num": 0,
+        "table_name": "主桌",
+        "pic": "./assets/pictures/seat0.png",
+        "leader": "新娘爸爸",
+        "member": [
+            {
+              "name": "新娘爸爸",
+              "phone": ""
+            },
+            {
+              "name": "新娘媽媽",
+              "phone": ""
+            },{
+              "name": "新娘大舅舅",
+              "phone": ""
+            },
+            {
+              "name": "桂霖阿伯",
+              "phone": ""
+            },
+            {
+              "name": "宗翰阿伯",
+              "phone": ""
+            },
+            {
+              "name": "新娘",
+              "phone": ""
+            }
+          ]
+      },
+      {
         "id": 15,
         "table_num": 15,
         "table_name": "新娘親友_吳",
